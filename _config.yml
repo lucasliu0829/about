@@ -1,17 +1,17 @@
 # Site settings
-title: JMichael Blog
-SEOTitle: Jiashu Miao | JMichael Blog
+title: LucasL Blog
+SEOTitle: Guangkuo Liu | LucasL Blog
 header-img: img/post-bg-desk.jpg
-email: michaelmicmiao@aol.com
+email: 
 description: "Every failure is leading towards success."
-keyword: "JS, JMichael Blog, michaelmiaomiao, Jiashu, 苗J, Data Analytics, Data Science, Analytics, Statistics, Python, R"
-url: "http://michaelmiaomiao.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/michaelmiaomiao/michaelmiaomiao.github.io.git" # you code repository
+keyword: "Lucas Liu's Personal Blog. Welcome!"
+url: "https://lucasliu0829.github.io"          # your host, for absolute URL
+baseurl: "https://lucasliu0829.github.io/about"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/lucasliu0829/about.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Go Bruins, UCLA class of 2020!"
+sidebar-about-description: "Go Bruins, UCLA class of 2019!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -20,8 +20,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: true
 # weibo_username:     qiubaiying
 ###instagram_username:   michaelmiaomiao
-zhihu_username:     Mau J
-github_username:    michaelmiaomiao
+zhihu_username:     lucasliu0829
+github_username:    lucasliu0829
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
