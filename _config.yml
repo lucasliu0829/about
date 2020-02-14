@@ -6,7 +6,7 @@ email:
 description: "Every failure is leading towards success."
 keyword: "Lucas Liu's Personal Blog. Welcome!"
 url: "https://lucasliu0829.github.io/"          # your host, for absolute URL
-baseurl: "https://lucasliu0829.github.io/about"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lucasliu0829/lucasliu0829.github.io.git" # you code repository
 
 # Sidebar settings
