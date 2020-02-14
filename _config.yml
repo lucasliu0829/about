@@ -5,8 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: 
 description: "Every failure is leading towards success."
 keyword: "Lucas Liu's Personal Blog. Welcome!"
-url: "https://lucasliu0829.github.io/blog"          # your host, for absolute URL
-baseurl: "https://lucasliu0829.github.io/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://lucasliu0829.github.io/"          # your host, for absolute URL
+baseurl: "https://lucasliu0829.github.io/about"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lucasliu0829/about.git" # you code repository
 
 # Sidebar settings
